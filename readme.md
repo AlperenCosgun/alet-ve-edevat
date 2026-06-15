@@ -140,7 +140,7 @@ npx expo export
 
 ### Ana Ekran
 
-<figure>
+<div style="display: flex; gap=10px;">
 <img src="./assets/images/ana_sayfa_aydinlik.png" width="200px" height ="400px"
  style="heights=150px; width=150px">&nbsp;
  <img src="./assets/images/ana_sayfa_koyu.png" width="200px" height ="400px"
@@ -149,7 +149,7 @@ npx expo export
  style="heights=150px; width=150px">&nbsp;
  <img src="./assets/images/arac_detayi_koyu.png" width="200px" height ="400px"
  style="heights=150px; width=150px">&nbsp;
-</figure>
+</div>
 
 ### Giriş/Kayıt Ekranı
 
@@ -185,4 +185,4 @@ npx expo export
 ## 📞 İletişim
 Proje ile ilgili sorularınız için:
 - **Email:** alperencosgun35@gmail.com
-- **GitHub Issues:** Issues
+- **GitHub Issues:** Issues"# alet-ve-edevat" 
