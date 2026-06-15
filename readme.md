@@ -185,4 +185,4 @@ npx expo export
 ## 📞 İletişim
 Proje ile ilgili sorularınız için:
 - **Email:** alperencosgun35@gmail.com
-- **GitHub Issues:** Issues"# alet-ve-edevat" 
+- **GitHub Issues:** [Issues](https://github.com/AlperenCosgun/alet-ve-edevat/issues) 
