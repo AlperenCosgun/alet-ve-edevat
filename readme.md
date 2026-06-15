@@ -153,7 +153,7 @@ npx expo export
 
 ### Giriş/Kayıt Ekranı
 
-<figure>
+<div style="display: flex; gap=10px;">
 <img src="./assets/images/login_aydinlik.png" width="200px" height ="400px"
  style="heights=150px; width=150px">&nbsp;
  <img src="./assets/images/login_koyu.png" width="200px" height ="400px"
@@ -162,25 +162,25 @@ npx expo export
  style="heights=150px; width=150px">&nbsp;
  <img src="./assets/images/register_koyu.png" width="200px" height ="400px"
  style="heights=150px; width=150px">&nbsp;
-</figure>
+</div>
 
 ### Talep Ekranı
 
-<figure>
+<div style="display: flex; gap=10px;">
 <img src="./assets/images/odunc_islemleri_aydinlik.png" width="200px" height ="400px"
  style="heights=150px; width=150px">&nbsp;
  <img src="./assets/images/odunc_islemleri_koyu.png" width="200px" height ="400px"
  style="heights=150px; width=150px">
-</figure>
+</div>
 
 ### Talep Ekranı
 
-<figure>
+<div style="display: flex; gap=10px;">
 <img src="./assets/images/profil_aydinlik.png" width="200px" height ="400px"
  style="heights=150px; width=150px">&nbsp;
  <img src="./assets/images/profil_koyu.png" width="200px" height ="400px"
  style="heights=150px; width=150px">
-</figure>
+</div>
 
 ## 📞 İletişim
 Proje ile ilgili sorularınız için:
